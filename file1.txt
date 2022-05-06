@@ -1,5 +1,6 @@
 kate is cool
 commit test
 testing line
+untesting file
 I'm from Novokuznetsk and live in Saint-Petersburg.
 Add Line
